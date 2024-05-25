@@ -1,7 +1,7 @@
 ## Hey, I am Iliya Gholami
 
-I am Backend Developer and PHP enthusiast.
-Passionate about open-source projects, music, and clean coding.
+I am Backend Developer and PHP enthusiast.<br>
+Passionate about open-source projects, music, and clean coding.<br>
 Always striving for self-improvement
 
 <!--
