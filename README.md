@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, I am Iliya Gholami
+
+I am Backend Developer and PHP enthusiast.
+Passionate about open-source projects, music, and clean coding.
+Always striving for self-improvement
 
 <!--
 **Mr-Gholami/Mr-Gholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
